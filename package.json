@@ -1,0 +1,27 @@
+{
+  "name": "golden-peacock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-http": "^1.0.0",
+    "gulp": "^3.9.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-jshint": "^1.12.0",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-mocha": "^2.1.3",
+    "gulp-sass": "^2.1.0",
+    "gulp-watch": "^4.3.5",
+    "webpack-stream": "^2.1.1"
+  }
+}
