@@ -1,0 +1,29 @@
+{
+  "name": "golden-peacock",
+  "version": "1.0.0",
+  "description": "website for golden peacock restaurant",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-watch": "^4.3.5",
+    "jshint": "^2.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTse3/goldenpeacock.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MTse3/goldenpeacock/issues"
+  },
+  "homepage": "https://github.com/MTse3/goldenpeacock#readme"
+}
